@@ -6,6 +6,10 @@ A simple landing page for Cozy Cafe.
 
 For practicing html and css for web-development. Cozy Cafe is not an actual cafe.
 
+## Cozy Cafe Landing Page
+
+<video src="./img/Cozy-cafe.mov" width="600" controls></video>
+
 ## Image Credits
 
 * **Cafe front image:** Photo by tom tang (https://unsplash.com/photos/a-cozy-wooden-cafe-storefront-with-chairs-and-chairs-VGI2YOBFYHM) on Unsplash(https://unsplash.com)
