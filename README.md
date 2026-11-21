@@ -8,7 +8,9 @@ For practicing html and css for web-development. Cozy Cafe is not an actual cafe
 
 ## Cozy Cafe Landing Page
 
-<video src="./img/Cozy-cafe.mov" width="600" controls></video>
+
+https://github.com/user-attachments/assets/26fbeb2d-bc0b-4d70-8290-d3eac73de0ba
+
 
 ## Image Credits
 
